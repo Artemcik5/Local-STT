@@ -27,6 +27,7 @@ PASTE='f5'
 # Overlay settings
 OVERLAY_SIZE = 100  # diameter or width/height in pixels
 OVERLAY_SHAPE = 'rounded_rect'  # 'circle' or 'rounded_rect'
+OVERLAY_ROUNDING = 20 #corner radius, W.I.P if using rounded_rect, if it doesnt work, try saving the entire script again
 OVERLAY_COLOR_FROM = "#00381C"  # starting color
 OVERLAY_COLOR_TO = "#01E901"  # ending color
 OVERLAY_MAX_VOLUME = 0.02  # the highest volume to map to the ending color
