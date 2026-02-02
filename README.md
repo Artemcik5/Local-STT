@@ -16,6 +16,6 @@ OVERLAY_COLOR_TO = "#01E901"  # ending color
 OVERLAY_MAX_VOLUME = 0.02  # the highest volume to map to the ending color
 
 model -if you want english only, add .en at the end so example: "small.en" otherwise leave it as it is,
--The models are : tiny, base, small, medium, large, turbo
--the model tiny is english only, the model turbo is theoretically the fastest, though it takes up the most resources
--personally base works best for english, and small for any language i use
+\n-The models are : tiny, base, small, medium, large, turbo
+\n-the model tiny is english only, the model turbo is theoretically the fastest, though it takes up the most resources
+\n-personally base works best for english, and small for any language i use
