@@ -19,4 +19,4 @@ model -if you want english only, add .en at the end so example: "small.en" other
 -The models are : tiny, base, small, medium, large, turbo<br>
 -the model tiny is english only, the model turbo is theoretically the fastest, though it takes up the most resources<br>
 -personally base works best for english, and small for any language i use<br>
--for problems with the whisper library, i recommend going to their <a href="https://github.com/openai/whisper">Github page</a>.
+-for problems with the whisper library, i recommend going to their <a href="https://github.com/openai/whisper">Github page</a> .
