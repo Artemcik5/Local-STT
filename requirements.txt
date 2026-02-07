@@ -1,0 +1,11 @@
+pyaudio
+whisper
+numpy
+tkinter
+ollama
+plyer
+pynput
+pydub
+piper
+sounddevice
+pathlib
