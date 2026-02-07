@@ -189,4 +189,19 @@ as they can make piper act weird (Example below)
 python3 ./main.py
 ```
 
+### Optional manual install: (otherwise refer to requirements.txt
+```bash
+pip install pyaudio
+pip install whisper
+pip install numpy
+pip install tkinter
+pip install ollama
+pip install plyer
+pip install pynput
+pip install pydub
+pip install piper
+pip install sounddevice
+pip install pathlib
+```
+
 Press your configured record key to start/stop recording, and use your configured keys for other functions.
